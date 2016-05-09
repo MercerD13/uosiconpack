@@ -1,28 +1,32 @@
 {
-  "walls": [
-    {
-      "author": "Someone Designer",
-      "url": "http://i.kinja-img.com/gawker-media/image/upload/s--ypEOk4yl--/c_scale,fl_progressive,q_80,w_800/glum2sevigpibwd324et.jpg",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image489252.jpg",
-      "name": "Wallpaper 1"
-    },
-    {
-      "author": "Someone Designer",
-      "url": "http://pic.youmobile.org/imgcdn/bkg_08_august.jpg",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402409.jpg",
-      "name": "Wallpaper 2"
-    },
-    {
-      "author": "Someone Designer",
-      "url": "http://i.imgur.com/aZlqiAT.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402410.png",
-      "name": "Wallpaper 3"
-    },
-    {
-      "author": "Someone Designer",
-      "url": "http://www.lirent.net/wp-content/uploads/2014/10/Android-Lollipop-wallpapers-p-800x500.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402411.png",
-      "name": "Wallpaper 4"
-    }
-  ]
+	"wallpapers": [
+		{
+			"name": "Lense",
+			"author": "NoOne",
+			"url": "http://htc-wallpaper.com/wp-content/uploads/2013/12/Self-portrait-in-a-lense2.jpg?8a4edc",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
+		},
+		{
+			"name": "Vertical Stripes",
+			"author": "NoOne",
+			"url": "http://htc-wallpaper.com/wp-content/uploads/2013/12/Neon-Light-Vertical-Stripes.jpg?8a4edc",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
+		},
+		{
+			"name": "Light Stripe",
+			"author": "NoOne",
+			"url": "http://wallpaper.zone/img/805440.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
+		},
+		{
+			"name": "Birds",
+			"author": "NoOne",
+			"url": "http://www.sswallpaper.com/get/samsung-galaxy-s4-wallpapers/Family-Portraits-1080x1920/2280-2.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
+		}
+	]
 }
