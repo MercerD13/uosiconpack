@@ -1,39 +1,64 @@
 {
 	"wallpapers": [
 		{
-			"name": "Cool Abstract Vertical Colorful Light Android Wallpaper",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/Cool Abstract Vertical Colorful Light Android Wallpaper.jpg",
+			"name": "Iron Man",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/bvvau0O.jpg",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
 		},
 		{
-			"name": "Neon-Light-Vertical-Stripes",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/Neon-Light-Vertical-Stripes.jpg",
+			"name": "Fallout 3",
+			"author": "Unknow",
+			"url": "http://i.imgur.com/8RslWmR.jpg",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
 		},
 		{
-			"name": "Self-portrait-in-a-lense2",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/Self-portrait-in-a-lense2.jpg",
+			"name": "Colors",
+			"author": "Unknow",
+			"url": "http://i.imgur.com/2rO6RJI.jpg",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
 		},
 		{
-			"name": "wallup-140701",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/wallup-140701.jpg",
+			"name": "Coffe",
+			"author": "Unknow",
+			"url": "http://i.imgur.com/feTAk0S.jpg",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
 		},
 		{
-			"name": "WDF_999131",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/WDF_999131.jpg",
+			"name": "City Vector",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/mscaHvw.jpg",
 			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
+		},
+		{
+			"name": "Breaking Bad",
+			"author": "Unknow",
+			"url": "http://i.imgur.com/7Cx25Sy.jpg",
+			"dimensions": "1080 x 1920",
+		},
+		{
+			"name": "Birds",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/Ns75myB.jpg",
+			"dimensions": "1080 x 1920",
+		},
+		{
+			"name": "SpaceCraft",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/3XVruxc.png",
+			"dimensions": "1080 x 1920",
+		},
+		{
+			"name": "Landscape",
+			"author": "Unknow",
+			"url": "http://i.imgur.com/fcW5Aiw.jpg",
+			"dimensions": "1080 x 1920",
+		},
+		{
+			"name": "ShinyLines",
+			"author": "Unknown",
+			"url": "http://i.imgur.com/ocBGVKN.jpg",
+			"dimensions": "1080 x 1920",
 		}
 	]
 }
