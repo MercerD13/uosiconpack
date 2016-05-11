@@ -1,39 +1,9 @@
-{
-	"wallpapers": [
-		{
-			"name": "Cool Abstract Vertical Colorful Light Android Wallpaper",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/Cool Abstract Vertical Colorful Light Android Wallpaper.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
-		},
-		{
-			"name": "Neon-Light-Vertical-Stripes",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/Neon-Light-Vertical-Stripes.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
-		},
-		{
-			"name": "Self-portrait-in-a-lense2",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/Self-portrait-in-a-lense2.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
-		},
-		{
-			"name": "wallup-140701",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/wallup-140701.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
-		},
-		{
-			"name": "WDF_999131",
-			"author": "NoOne",
-			"url": "http://www.NoOne/wallpapers/WDF_999131.jpg",
-			"dimensions": "1080 x 1920",
-			"copyright": "Copyright ¸ 2016 NoOne. All rights reserved."
-		}
-	]
+{ 
+    "notifications": 
+        [
+            {
+                "new_walls": "0",
+                "general": "null"
+            }
+        ]
 }
