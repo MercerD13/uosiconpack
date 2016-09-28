@@ -1,6 +1,69 @@
 {
 	"wallpapers": [
 		{
+			"name": "Fence",
+			"author": "Unknow",
+			"url": "http://wallpapersonthe.net/wallpapers/b/1080x1920/1080x1920-bokeh_depth_of_field_fence_chainlink-18352.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Cracked Screen",
+			"author": "Unknow",
+			"url": "http://wallpapersonthe.net/wallpapers/b/1080x1920/1080x1920-cracked_magazine_other_glass_artistic-13961.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Color Glass",
+			"author": "Samsung",
+			"url": "https://cdn-images.xda-developers.com/direct/2/4/7/5/6/3/1/wallpaper_07.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Cloud",
+			"author": "Unknow",
+			"url": "http://hdwallpaperiphone.com/wp-content/uploads/2016/04/Funny-iphone-wallpaper-hd-1080p.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Connection",
+			"author": "Unknow",
+			"url": "https://s-media-cache-ak0.pinimg.com/564x/59/61/ea/5961eab5f8d298e578141aa99f61a788.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Flames",
+			"author": "Unknow",
+			"url": "http://i.imgur.com/cXmGdFL.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Island",
+			"author": "Unknow",
+			"url": "http://www.1080x1920wallpapers.com/1080x1920-backgrounds/1080x1920-wallpapers-1/1080x1920-HD-wallpapers-samsung-htc-android-smartphone-2380j35oz-1080P.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Green Wall",
+			"author": "Unknow",
+			"url": "http://i.imgur.com/lqdZqjp.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Hello Friend",
+			"author": "UNDONE",
+			"url": "http://i.imgur.com/8onnIxw.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
 			"name": "Red Mountain",
 			"author": "Unknow",
 			"url": "http://www.mactrast.com/wp-content/uploads/2014/09/papers.co-ad53-fuji-red-mountain-alone-34-iphone6-plus-wallpaper.jpg",
@@ -88,7 +151,6 @@
 			"name": "Be Original",
 			"author": "v3rde",
 			"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-95888.png",
-			"thumbnail": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-95888.png",
 			"dimensions": "1920 x 1200",
 			"copyright": ""
 		},
@@ -96,7 +158,6 @@
 			"name": "Abstract",
 			"author": "l1nlong",
 			"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-4777.jpg",
-			"thumbnail": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-4777.jpg",
 			"dimensions": "2490 x 1402",
 			"copyright": ""
 		},
@@ -104,7 +165,6 @@
 			"name": "Pokedex",
 			"author": "Skiboosh",
 			"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-9832.jpg",
-			"thumbnail": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-9832.jpg",
 			"dimensions": "1920 x 1080",
 			"copyright": ""
 		},
@@ -112,7 +172,6 @@
 			"name": "Mountains",
 			"author": "maharaj",
 			"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-233745.jpg",
-			"thumbnail": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-233745.jpg",
 			"dimensions": "1920 x 1080",
 			"copyright": ""
 		},
@@ -120,7 +179,6 @@
 			"name": "Map",
 			"author": "kejsirajbek",
 			"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-336348.jpg",
-			"thumbnail": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-336348.jpg",
 			"dimensions": "2560 x 1440",
 			"copyright": ""
 		},
@@ -128,7 +186,6 @@
 			"name": "Loading Awesome",
 			"author": "BoSsFiNaL4sRaT",
 			"url": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-42035.jpg",
-			"thumbnail": "https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-42035.jpg",
 			"dimensions": "1920 x 1200",
 			"copyright": ""
 		},
@@ -136,7 +193,6 @@
 			"name": "Iron Man",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/bvvau0O.jpg",
-			"thumbnail": "http://i.imgur.com/bvvau0O.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -144,7 +200,6 @@
 			"name": "Fallout 3",
 			"author": "Unknow",
 			"url": "http://i.imgur.com/8RslWmR.jpg",
-			"thumbnail": "http://i.imgur.com/8RslWmR.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -152,7 +207,6 @@
 			"name": "Colors",
 			"author": "Unknow",
 			"url": "http://i.imgur.com/2rO6RJI.jpg",
-			"thumbnail": "http://i.imgur.com/2rO6RJI.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -160,7 +214,6 @@
 			"name": "Coffe",
 			"author": "Unknow",
 			"url": "http://i.imgur.com/feTAk0S.jpg",
-			"thumbnail": "http://i.imgur.com/feTAk0S.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -168,7 +221,6 @@
 			"name": "City Vector",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/mscaHvw.jpg",
-			"thumbnail": "http://i.imgur.com/mscaHvw.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -176,7 +228,6 @@
 			"name": "Breaking Bad",
 			"author": "Unknow",
 			"url": "http://i.imgur.com/7Cx25Sy.jpg",
-			"thumbnail": "http://i.imgur.com/7Cx25Sy.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -184,7 +235,6 @@
 			"name": "Birds",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/Ns75myB.jpg",
-			"thumbnail": "http://i.imgur.com/Ns75myB.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -192,7 +242,6 @@
 			"name": "SpaceCraft",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/3XVruxc.png",
-			"thumbnail": "http://i.imgur.com/3XVruxc.png",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -200,7 +249,6 @@
 			"name": "Landscape",
 			"author": "Unknow",
 			"url": "http://i.imgur.com/fcW5Aiw.jpg",
-			"thumbnail": "http://i.imgur.com/fcW5Aiw.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -208,7 +256,6 @@
 			"name": "ShinyLines",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/ocBGVKN.jpg",
-			"thumbnail": "http://i.imgur.com/ocBGVKN.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -216,7 +263,6 @@
 			"name": "SpaceWalker",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/6fK5TJU.jpg",
-			"thumbnail": "http://i.imgur.com/6fK5TJU.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -224,7 +270,6 @@
 			"name": "SpaceStars",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/Vxwj55R.jpg",
-			"thumbnail": "http://i.imgur.com/Vxwj55R.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -232,7 +277,6 @@
 			"name": "SpaceColors",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/cc8DKLv.jpg",
-			"thumbnail": "http://i.imgur.com/cc8DKLv.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -240,7 +284,6 @@
 			"name": "SpaceMountain",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/63PQyiv.jpg",
-			"thumbnail": "http://i.imgur.com/63PQyiv.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -248,7 +291,6 @@
 			"name": "RedNebula",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/pPYFUM1.jpg",
-			"thumbnail": "http://i.imgur.com/pPYFUM1.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -256,7 +298,6 @@
 			"name": "Stars",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/oGvSIJS.jpg",
-			"thumbnail": "http://i.imgur.com/oGvSIJS.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -264,7 +305,6 @@
 			"name": "MoonWork",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/mTDXpFe.jpg",
-			"thumbnail": "http://i.imgur.com/mTDXpFe.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -272,7 +312,6 @@
 			"name": "TheWalkingDead",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/ICOGhGh.jpg",
-			"thumbnail": "http://i.imgur.com/ICOGhGh.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -280,7 +319,6 @@
 			"name": "Starbucks",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/6Go5dsr.jpg",
-			"thumbnail": "http://i.imgur.com/6Go5dsr.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -288,7 +326,6 @@
 			"name": "Space",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/h0MVuT3.jpg",
-			"thumbnail": "http://i.imgur.com/h0MVuT3.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -296,7 +333,6 @@
 			"name": "Sky",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/2OlZjKG.jpg",
-			"thumbnail": "http://i.imgur.com/2OlZjKG.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
@@ -312,7 +348,6 @@
 			"name": "Boreal",
 			"author": "Unknown",
 			"url": "http://i.imgur.com/7UoZKP2.jpg",
-			"thumbnail": "http://i.imgur.com/7UoZKP2.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		}
