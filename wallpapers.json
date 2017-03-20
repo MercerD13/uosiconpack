@@ -1,9 +1,23 @@
 {
 	"wallpapers": [
 		{
+			"name": "Dark Black",
+			"author": "Unknow",
+			"url": "http://media.idownloadblog.com/wp-content/uploads/2016/09/AR7-apple-iPhone-7-wallpaper-dark-black-iOS-10.png",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
 			"name": "Sky Blur",
 			"author": "Unknow",
 			"url": "http://www.ilikewallpaper.net/iphone-6-wallpapers/download/31459/Sky-Blur-Gradation-Blur-iphone-6-wallpaper-ilikewallpaper_com.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Water",
+			"author": "Unknow",
+			"url": "http://iphonewalls.net/wp-content/uploads/2016/08/Dreamy%20Underwater%20Bubbles%20Sun%20Light%20iPhone%206+%20HD%20Wallpaper.jpg",
 			"dimensions": "1080 x 1920",
 			"copyright": ""
 		},
