@@ -1,6 +1,27 @@
 {
 	"wallpapers": [
 		{
+			"name": "Abstract",
+			"author": "Unknow",
+			"url": "http://media.idownloadblog.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-13.png",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Slanting",
+			"author": "Unknow",
+			"url": "https://wallpaperscraft.com/image/line_slanting_dark_background_43980_1080x1920.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "S8 Stars",
+			"author": "Samsung",
+			"url": "http://media.idownloadblog.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-6j.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
 			"name": "Dark Black",
 			"author": "Unknow",
 			"url": "http://media.idownloadblog.com/wp-content/uploads/2016/09/AR7-apple-iPhone-7-wallpaper-dark-black-iOS-10.png",
