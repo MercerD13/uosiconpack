@@ -1,6 +1,27 @@
 {
 	"wallpapers": [
 		{
+			"name": "iOS Pattern",
+			"author": "Unknow",
+			"url": "https://i0.wp.com/techbeasts.com/wp-content/uploads/2017/06/Awesome-iPhone-Wallpapers-in-Summer-11.jpg",
+			"dimensions": "744 x 1392",
+			"copyright": ""
+		},
+		{
+			"name": "Turtle",
+			"author": "Unknow",
+			"url": "http://crtvchurch.com/wp-content/uploads/2017/01/turtle_wallpaper_v3.png",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Color Wave",
+			"author": "Unknow",
+			"url": "http://phandroid.s3.amazonaws.com/wp-content/uploads/2017/06/wallpaper_32.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
 			"name": "Abstract",
 			"author": "Unknow",
 			"url": "http://media.idownloadblog.com/wp-content/uploads/2017/04/Galaxy-S8-wallpaper-13.png",
